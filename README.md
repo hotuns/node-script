@@ -6,6 +6,7 @@
 
 ---
 
-1. [batch_file_rename](http://www.baidu.com/) batch_file_rename  修改文件夹内所有文件的扩展名
+1. [batch_file_rename](https://github.com/hedongshu/node-script/blob/main/batch_file_rename.js)
+   修改文件夹内所有文件的扩展名
 
 
